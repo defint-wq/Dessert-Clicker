@@ -23,7 +23,16 @@ You need to know:
   that are performed in that method.
 
 
-Getting Started
+Architecture Components
 ---------------
 
-1. Download and run the app.
+1. ![img.png](quiz/img.png)
+2. ![img_1.png](quiz/img_1.png)
+3. ![img_2.png](quiz/img_2.png)
+4. ![img_3.png](quiz/img_3.png)
+5. ![img_4.png](quiz/img_4.png)
+6. ![img_5.png](quiz/img_5.png)
+7. ![img_6.png](quiz/img_6.png)
+8. ![img_7.png](quiz/img_7.png)
+9. ![img_8.png](quiz/img_8.png)
+10. ![img_9.png](quiz/img_9.png)
