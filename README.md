@@ -23,9 +23,8 @@ You need to know:
   that are performed in that method.
 
 
-Architecture Components
+Architecture Components Quiz
 ---------------
-
 ![img.png](quiz/img.png)
 ![img_1.png](quiz/img_1.png)
 ![img_2.png](quiz/img_2.png)
